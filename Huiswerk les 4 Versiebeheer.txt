@@ -1,0 +1,14 @@
+NHA cursus Programmeren voor beginners
+
+
+Huiswerk les 4 Versiebeheer
+
+De antwoorden:
+
+1. Git pull: Het ophalen van en samenvoegen van wijzigingen met een andere repository of een lokale branch.
+
+2. Git clone: kloont of kopie een repository naar een nieuwe aangemaakte repository.
+
+3. Met commando git commit -m "Bugs opgelost"
+
+4. 
